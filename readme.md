@@ -1,7 +1,3 @@
-Para tu proyecto que implica un chunker semántico utilizando Rust, BERT para embeddings y Qdrant como base de datos de vectores, aquí tienes una guía detallada para el archivo `README.md`:
-
----
-
 # Semantic Chunker
 
 Este proyecto implementa un chunker semántico utilizando Rust. Utiliza el modelo BERT para generar embeddings de texto y Qdrant para almacenar y realizar búsquedas semánticas eficientes.
@@ -85,7 +81,3 @@ Las contribuciones son bienvenidas. Por favor, envía un Pull Request o abre un 
 ## Licencia
 
 [MIT](LICENSE)
-
----
-
-Este `README.md` proporciona una visión general del proyecto, instrucciones de configuración y uso, y la invitación a contribuir. Asegúrate de ajustar los pasos y los comandos según los detalles específicos de tu implementación y configuración de Qdrant.
